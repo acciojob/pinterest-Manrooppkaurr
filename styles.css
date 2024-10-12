@@ -8,7 +8,7 @@
 .img1{
 	height:500px;
 	width:500px;
-	background-size:cover;
+	object-fit:cover;
 	margin-inline:15px;
 }
 button{
